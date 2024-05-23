@@ -1,0 +1,3 @@
+[workspace]
+members = ["lifetime-coercible", "lifetime-coercible-gen", "lifetime-coercible-macro"]
+resolver = "2"
